@@ -1,0 +1,30 @@
+body {
+    background-color: #f86c7c;
+}
+
+.litleHeart {
+    width: 2%;
+}
+
+.container {
+    margin-top: 5%;
+    text-align: center;
+}
+
+h1 {
+    color: #38191C;
+    font-family: 'Lucida Sans Regular';
+}
+
+p {
+    font-family: 'Lucida Sans';
+}
+
+button {
+    margin-top: 2%;
+    background-color: #ff0019;
+    color: aliceblue;
+    border-radius: 50%;
+    border: white;
+    height: 30px;
+}
